@@ -3,7 +3,7 @@
 // const nombre = localStorage.getItem('nombre');
 // console.log(nombre); // --> "Ilan"
 
-
+/*
 // Si le pido un valor que no esta dentro del local storage me devolvera un null
 const nombre2 = localStorage.getItem('nombre2');
 console.log(nombre2); // --> null
@@ -22,3 +22,5 @@ console.log(productoParseado);
 const mesesJSON = localStorage.getItem('meses');
 const mesesParseado = JSON.parse(mesesJSON);
 console.log(mesesParseado);
+
+*/

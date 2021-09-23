@@ -10,7 +10,7 @@ const prod = {
 }
 // Los datos que almacena el local storage son siempre strings. Por lo que hay forma de guardar objetos o arreglos completos en forma de string utilizando una utilidad que se llama 'stringify' de la libreria de JS 'JSON'.
 
-localStorage.setItem('producto', JSON.stringify(producto));
+localStorage.setItem('producto', JSON.stringify(prod));
 
 // Tambien puedo guardar arreglos.
 const meses = ['Enero', 'Febrero', 'Marzo'];
