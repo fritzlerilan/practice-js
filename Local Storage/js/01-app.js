@@ -4,7 +4,7 @@
 // Es un espacio de guardado permanente en el almacenamiento local del cliente. Los datos persistiran hasta que sean limpiados o eliminados.
 localStorage.setItem('nombre', 'Ilan');
 
-const producto = {
+const prod = {
     nombre: 'Monitor 24 Pulgadas',
     precio: 300,
 }
