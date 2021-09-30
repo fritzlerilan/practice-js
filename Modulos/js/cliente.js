@@ -19,3 +19,13 @@ export function tieneSaldo(ahorro){
         console.log('El cliente no tiene saldo');
     }
 }
+
+export class Cliente {
+    constructor(nombre, ahorro) {
+        this.nombre = nombre;
+        this.ahorro = ahorro;
+    }
+    mostrarInformacion() {
+        return `Cliente: ${this.nombre} - Ahorro: $${this.ahorro}`;
+    }
+}
