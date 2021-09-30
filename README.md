@@ -6,3 +6,5 @@
 - ⏰ Object Date
 - 🕜 Moment JS
 - 🎇 Prototypes
+- POO (⏹️📐🖊️📎🗑️)
+- 🗺️ Maps & Symbols 🎼
